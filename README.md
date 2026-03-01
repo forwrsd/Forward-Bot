@@ -1,4 +1,4 @@
-# VJ Forward Bot
+# Forward Bot
 
 <b>Auto Restart All User Forwarding After Bot Restarted.</b>
 
